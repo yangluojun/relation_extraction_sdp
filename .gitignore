@@ -1,0 +1,35 @@
+
+# 大文件：数据集
+*.pkl
+*.h5
+*.hdf5
+*.bin
+*.pt
+*.pth
+data/
+dataset/
+datasets/
+
+# 模型输出
+*.model
+output/
+checkpoints/
+
+# 大文件：数据集
+*.pkl
+*.h5
+*.hdf5
+*.bin
+*.pt
+*.pth
+data/
+dataset/
+datasets/
+
+# 模型输出
+*.model
+output/
+checkpoints/
+
+# 大型数据文件，不纳入版本控制
+preproc/data/
